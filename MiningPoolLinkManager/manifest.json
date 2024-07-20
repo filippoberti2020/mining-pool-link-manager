@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Mining Pool Link Manager",
+    "version": "1.0",
+    "description": "Manage multiple mining pool links",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "storage"
+    ]
+  }
