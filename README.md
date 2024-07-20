@@ -2,6 +2,8 @@
 
 A Chrome extension for managing and quickly accessing multiple cryptocurrency mining pool links.
 
+![Preview of Mining Pool Link Manager](preview-mining-pool-link-manager.png)
+
 ## Features
 
 - Add and store mining pool links with custom names
